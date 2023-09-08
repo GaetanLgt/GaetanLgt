@@ -9,7 +9,7 @@
 Passionné(e) par le développement web, j'ai commencé ma carrière en tant que développeur web full stack. Mon expérience s'étend de la création d'interfaces utilisateur intuitives au développement de solutions back-end robustes. Je m'efforce toujours d'écrire un code propre, efficace et évolutif.  
 
 ### 🛠 Compétences techniques
-Langages: PHP, JavaScript, HTML, CSS, Twig  
+Langages: PHP, JavaScript, HTML, CSS, Twig   
 Frameworks: Symfony,  React, Vue  
 Outils: Git,Docker, Webpack  
 
