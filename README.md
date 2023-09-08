@@ -2,7 +2,7 @@
 
 
 ## 🌐 Développeur Web Full Stack
-🎓 Diplôme: RNCP Niveau 5 - Développeur Web et Web Mobile
+🎓 Diplôme: RNCP Niveau 5 - Développeur Web et Web Mobile  
 🚀 Spécialisation: Alternant PHP/Symfony - En route vers le RNCP Niveau 6 - Concepteur d'Application PHP/Symfony
 
 ### 🔍 À propos de moi  
