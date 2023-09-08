@@ -1,16 +1,24 @@
-### Hi there 👋
+# Bonjour ! 👋 Je suis Gaëtan LANGLET
 
-<!--
-**GaetanLgt/GaetanLgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Développeur Web Full Stack
+🎓 Diplôme: RNCP Niveau 5 - Développeur Web et Web Mobile
+🚀 Spécialisation: Alternant PHP/Symfony - En route vers le RNCP Niveau 6 - Concepteur d'Application PHP/Symfony
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 À propos de moi
+Passionné(e) par le développement web, j'ai commencé ma carrière en tant que développeur web full stack. Mon expérience s'étend de la création d'interfaces utilisateur intuitives au développement de solutions back-end robustes. Je m'efforce toujours d'écrire un code propre, efficace et évolutif.
+
+### 🛠 Compétences techniques
+Langages: PHP, JavaScript, HTML, CSS, Twig
+Frameworks: Symfony,  React, Vue
+Outils: Git,Docker, Webpack
+
+### 🌍 Expériences professionnelles
+Alternant PHP/Symfony - CWA (de Août 2022 à Octobre 2022)
+Alternant PHP/Symfony - Yanola (de Mars 2023 à maintenant)
+
+### 📬 Contact
+LinkedIn: [[Mon profil]](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/
+Email: [gtn.langlet@gmail.com]
+
+
