@@ -1,5 +1,3 @@
-[[Veille.techno.md]] 
-
 # Bonjour ! 👋 Je suis Gaëtan LANGLET
 
 
@@ -22,7 +20,3 @@ Alternant PHP/Symfony - Yanola (de Mars 2023 à maintenant)
 ### 📬 Contact
 LinkedIn: [[Mon profil]](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)  
 Email: [gtn.langlet@gmail.com]
-
-[[Veille.techno.md]]
-
-
