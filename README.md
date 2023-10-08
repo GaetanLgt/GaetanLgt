@@ -21,6 +21,6 @@ Alternant PHP/Symfony - Yanola (de Mars 2023 à maintenant)
 LinkedIn: [GaetanLGT](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)  
 Email: [gtn.langlet@gmail.com]
 
-retrouvez-moi aussi sur xbox
+# Retrouvez-moi aussi sur xbox [xo0 Neo 0ox]
 
 
