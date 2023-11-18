@@ -15,7 +15,7 @@ Outils: Git,Docker, Webpack
 
 ### 🌍 Expériences professionnelles
 Alternant PHP/Symfony - CWA (de Août 2022 à Octobre 2022)  
-Alternant PHP/Symfony - Yanola (de Mars 2023 à maintenant)  
+Alternant PHP/Symfony - Yanola (de Mars 2023 à Otobre 2023)  
 
 ### 📬 Contact
 LinkedIn: [GaetanLGT](https://www.linkedin.com/in/ga%C3%ABtan-langlet-web-developpeur/)  
